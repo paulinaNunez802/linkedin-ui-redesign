@@ -37,4 +37,4 @@ Instead of opening a separate modal, show the "Add Note" field directly below th
 
 ```bash
 📎 Link to this GitHub repo:
-https://github.com/yourusername/linkedin-ui-redesign
+https://github.com/paulinaNunez802/linkedin-ui-redesign.git
